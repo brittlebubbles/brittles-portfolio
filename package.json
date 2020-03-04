@@ -2,7 +2,7 @@
   "name": "juliette.sh",
   "description": "juliette.sh",
   "version": "0.1.0",
-  "author": "Juliette Pretot",
+  "author": "Adom Sackey",
   "dependencies": {
     "@types/node": "^13.7.7",
     "@types/react": "^16.9.23",
