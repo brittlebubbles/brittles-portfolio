@@ -16,10 +16,3 @@ Styling is done using [**Styled Components**](https://www.styled-components.com)
 
 The codebase is type-checked using **[TypeScript](https://www.typescriptlang.org/)**, formatted using **[Prettier](https://github.com/prettier/prettier)** and linted using **[TSLint](https://palantir.github.io/tslint/)**. Enforced using commit hooks.
 
-## Continuous Deployment 🚀
-
-As soon as changes are merged into the `master` branch, the page will automatically be built by **[Netlify](https://netlify.com)**. It is then deployed as a static site using the Netlify CDN.
-
-## Gatsby Starter ✨
-
-For a skeleton Gatsby starter of this website, see: https://github.com/juliettepretot/gatsby-typescript
