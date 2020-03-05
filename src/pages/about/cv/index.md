@@ -12,7 +12,7 @@ _Creative, ambitious, and enterprising software engineer._
 ## Skills
 
 - JavaScript, React, GraphQL, Node.js, ReactNative
-- Mentoring, Agile Methodology
+- Agile Methodology
 
 ## Work
 
