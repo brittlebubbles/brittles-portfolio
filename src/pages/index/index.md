@@ -5,7 +5,7 @@ featuredImage: ./you.jpg
 style: index
 ---
 
-My name's **_Adom Sackey_**. I'm a creative, ambitious, and enterprising software engineer.
+My name is **_Adom Sackey_**. I'm a creative, ambitious, and enterprising software engineer.
 
 Focused on building and securing backend , I also enjoy building products from idea to implementation. Currently freelancing and working towards my First Degree
 
